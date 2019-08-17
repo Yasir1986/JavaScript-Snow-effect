@@ -1,4 +1,4 @@
-Follow the steps to run this Hambuger-Menu-Header in React
+Follow the steps to run JavaScript-Snow-Effect
 
 1)git clone https://github.com/Yasir1986/JavaScript-Snow-effect
 
